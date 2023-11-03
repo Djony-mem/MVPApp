@@ -22,4 +22,5 @@ struct Person {
 
 struct Pet {
 	let name: String
+	let age: Int
 }
