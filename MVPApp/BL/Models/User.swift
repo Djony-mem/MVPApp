@@ -17,4 +17,9 @@ struct Person {
 	let name: String
 	let age: Int
 	let hobby: String
+	let pets: Pet
+}
+
+struct Pet {
+	let name: String
 }
